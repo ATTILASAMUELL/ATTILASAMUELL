@@ -1,4 +1,4 @@
-### Hi there, my name is ATTILA  SAMUELL TABORY, I love technology 👋
+### Hi there, My name is ATTILA  SAMUELL TABORY, I love technology 👋
 
 
 
@@ -25,6 +25,7 @@ Tecnologias que eu utilizo no meu dia a dia.
   <img align"center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align"center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img align"center" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img align"center" alt="android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
 
 <br/>
