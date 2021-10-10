@@ -11,7 +11,7 @@
 
 ![ATTILA SAMUELL GitHub stats](https://github-readme-stats.vercel.app/api?username=ATTILASAMUELL&show_icons=true&theme=dracula)
 
-🚀 Skills
+### Skills 🚀 
 
 <div style="display:inline_block"><br/>
   <img align"center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -33,4 +33,14 @@
 ### Passion ❤ 
 <div style="display:inline_block"><br/>
   <img align"center" alt="bitcoin" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+</div>
+
+### Workspace Spec 💻
+<div style="display:inline_block"><br/>
+  <img align"center" alt="nvidia" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+</div>
+
+### Games 🎮 
+<div style="display:inline_block"><br/>
+  <img align"center" alt="xbox" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"/>
 </div>
