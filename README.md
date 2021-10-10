@@ -10,7 +10,7 @@
 
 
 ![ATTILA SAMUELL GitHub stats](https://github-readme-stats.vercel.app/api?username=ATTILASAMUELL&show_icons=true&theme=dracula)
-![ATTILA SAMUELL ](https://github-readme-stats.vercel.app/api/top-langs/?username={ATTILASAMUELL}&theme=blue-green)
+![ATTILA SAMUELL ](https://github-readme-stats.vercel.app/api/top-langs/?username=ATTILASAMUELL&theme=blue-green)
 
 ### Skills 🚀 
 
